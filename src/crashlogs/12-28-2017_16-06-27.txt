@@ -1,0 +1,4 @@
+class java.lang.NullPointerException: null
+sample.Main$1$1.run(Main.java:174)
+java.util.TimerThread.mainLoop(Timer.java:555)
+java.util.TimerThread.run(Timer.java:505)

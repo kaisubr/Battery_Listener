@@ -1,0 +1,949 @@
+log.txt
+Absolute Path: "C:\\Users\\plsub\\Desktop\\Saved Files\\apps\\Battery_Listener\\src\\data\\log.txt";
+Relative Path: "src\\data\\log.txt"
+-----------------------------
+[12/26/2017 16:41:31]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 16:41:31]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 16:42:19]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 16:42:20]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 16:42:50]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 16:42:50]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 16:44:26]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 16:44:27]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/26/2017 16:44:46]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[12/26/2017 17:02:26]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:02:27]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:03:44]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:03:44]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:06:14]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:06:15]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:06:48]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:06:48]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:07:21]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:07:22]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:07:35]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:07:36]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:11:01]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:11:02]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:17:05]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:17:06]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:17:36]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:17:37]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:18:52]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:18:53]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:19:24]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:19:26]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:19:51]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:19:52]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/26/2017 17:20:14]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/26/2017 17:20:15]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/26/2017 17:21:54]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[12/27/2017 12:15:55]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/27/2017 12:15:56]
+Flag update (98% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 98% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/27/2017 12:16:11]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[12/27/2017 23:05:05]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/27/2017 23:05:06]
+Flag update (57% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 57% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/27/2017 23:16:05]
+Flag update (66% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 00:00:05]
+It's midnight, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 94% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 01:12:05]
+Flag update (99% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 14:51:05]
+Discharging (100% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 15:42:05]
+Flag update (67% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: 3265 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:48:58]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:48:59]
+Discharging (61% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 8361 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:49:01]
+Flag update (61% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 8361 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:49:22]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:49:23]
+Discharging (61% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 8361 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:49:25]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 8361 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:49:25]
+Flag update (61% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 8361 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:50:32]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:50:33]
+Discharging (60% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: 11561 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:50:35]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: 11561 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:50:35]
+Flag update (60% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: 11561 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:51:31]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:51:32]
+Discharging (60% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: 11561 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:51:34]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: 11561 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:51:34]
+Flag update (60% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: 11561 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:52:02]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:52:03]
+Discharging (59% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 59% | Battery Left: 10685 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:52:05]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 59% | Battery Left: 10685 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:52:05]
+Flag update (59% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 59% | Battery Left: 10685 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:52:52]
+The shutdown was cancelled, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 59% | Battery Left: 10685 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:53:38]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:53:39]
+Discharging (58% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 58% | Battery Left: 5847 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:53:41]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 58% | Battery Left: 5847 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:53:41]
+Flag update (58% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 58% | Battery Left: 5847 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 15:54:07]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 15:54:07]
+Discharging (58% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 58% | Battery Left: 5847 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:54:10]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 58% | Battery Left: 5847 seconds | Battery Full: Unknown | 
+
+[12/28/2017 15:54:10]
+Flag update (58% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 58% | Battery Left: 5847 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:00:19]
+The shutdown was cancelled, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 54% | Battery Left: 9026 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 16:01:40]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 16:01:41]
+Discharging (53% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 53% | Battery Left: 3154 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:01:43]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 53% | Battery Left: 3154 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:01:43]
+Flag update (53% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 53% | Battery Left: 3154 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:02:40]
+The shutdown was cancelled, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 53% | Battery Left: 3154 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 16:06:22]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 16:06:23]
+Discharging (51% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 51% | Battery Left: 8007 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:06:26]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 51% | Battery Left: 8007 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:06:26]
+Flag update (51% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 51% | Battery Left: 8007 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:46:23]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 5888 seconds | Battery Full: Unknown | 
+
+[12/28/2017 16:46:23]
+Flag update (33% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 5888 seconds | Battery Full: Unknown | 
+
+[12/28/2017 17:16:23]
+Computer is shutting down. ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 9% | Battery Left: 631 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/28/2017 18:10:15]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/28/2017 18:10:16]
+It's midnight, ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 52% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 18:10:16]
+Flag update (52% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 52% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 18:10:22]
+The shutdown was cancelled, ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 52% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 18:26:16]
+It's midnight, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 18:26:16]
+Flag update (66% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 20:28:16]
+It's midnight, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 20:28:16]
+Flag update (99% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 21:11:16]
+Discharging (100% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 21:49:16]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: 3753 seconds | Battery Full: Unknown | 
+
+[12/28/2017 21:49:16]
+Flag update (67% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: 3753 seconds | Battery Full: Unknown | 
+
+[12/28/2017 22:30:16]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 7245 seconds | Battery Full: Unknown | 
+
+[12/28/2017 22:30:16]
+Flag update (33% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 7245 seconds | Battery Full: Unknown | 
+
+[12/28/2017 22:32:16]
+Charging (32% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 32% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:32:17]
+It's midnight, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 32% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:32:17]
+Flag update (32% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 32% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:34:16]
+It's midnight, ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 33% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:34:16]
+Flag update (32% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 33% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:54:16]
+Discharging (48% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 49% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:54:17]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 49% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/28/2017 22:54:17]
+Flag update (48% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 49% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/29/2017 00:00:16]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 39% | Battery Left: 15794 seconds | Battery Full: Unknown | 
+
+[12/29/2017 00:38:16]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 10986 seconds | Battery Full: Unknown | 
+
+[12/29/2017 00:38:16]
+Flag update (33% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 10986 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/31/2017 11:43:09]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/31/2017 11:43:10]
+Discharging (44% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 44% | Battery Left: 6704 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:43:13]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 44% | Battery Left: 6704 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:43:13]
+Flag update (44% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 44% | Battery Left: 6704 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:43:31]
+The shutdown was cancelled, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 44% | Battery Left: 6704 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:48:11]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[12/31/2017 11:48:18]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/31/2017 11:48:19]
+Discharging (42% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 42% | Battery Left: 3360 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:48:22]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 42% | Battery Left: 3360 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:48:22]
+Flag update (42% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 42% | Battery Left: 3360 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:48:45]
+The shutdown was cancelled, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 42% | Battery Left: 3360 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/31/2017 11:48:58]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/31/2017 11:48:59]
+Discharging (41% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 41% | Battery Left: 8121 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:49:01]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 41% | Battery Left: 8121 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:49:01]
+Flag update (41% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 41% | Battery Left: 8121 seconds | Battery Full: Unknown | 
+
+[12/31/2017 11:49:05]
+Computer is shutting down. ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 41% | Battery Left: 8121 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/31/2017 14:37:57]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/31/2017 14:37:58]
+Discharging (19% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 19% | Battery Left: 3381 seconds | Battery Full: Unknown | 
+
+[12/31/2017 14:38:01]
+Flag update (19% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 19% | Battery Left: 3381 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/31/2017 14:40:10]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/31/2017 14:40:11]
+Discharging (18% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 18% | Battery Left: 4002 seconds | Battery Full: Unknown | 
+
+[12/31/2017 14:40:15]
+Flag update (18% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 18% | Battery Left: 4002 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[12/31/2017 14:43:47]
+Bat Echo v1.1 has completely set up and is running.
+
+[12/31/2017 14:43:47]
+Discharging (17% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 17% | Battery Left: 3573 seconds | Battery Full: Unknown | 
+
+[12/31/2017 14:43:51]
+Flag update (17% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 17% | Battery Left: 3573 seconds | Battery Full: Unknown | 
+
+[12/31/2017 14:44:47]
+Charging (17% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 16% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:44:48]
+Flag update (17% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 16% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:50:47]
+Discharging (20% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 20% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:50:48]
+Flag update (20% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 20% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:54:47]
+Charging (20% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 20% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:54:48]
+Flag update (20% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 20% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:55:47]
+Discharging (20% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 20% | Battery Left: 4069 seconds | Battery Full: Unknown | 
+
+[12/31/2017 14:55:48]
+Flag update (20% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 20% | Battery Left: 4069 seconds | Battery Full: Unknown | 
+
+[12/31/2017 14:58:47]
+Charging (19% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 20% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 14:58:48]
+Flag update (19% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 20% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 15:12:47]
+Flag update (32% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 33% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 15:52:47]
+Flag update (66% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 16:09:47]
+Discharging (82% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 82% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 16:09:48]
+Flag update (82% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 82% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 16:10:47]
+Charging (82% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 82% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 16:10:52]
+Flag update (82% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 82% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 18:05:47]
+Flag update (99% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[12/31/2017 21:02:47]
+Discharging (100% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: 11655 seconds | Battery Full: Unknown | 
+
+[12/31/2017 22:08:47]
+Flag update (67% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: 9873 seconds | Battery Full: Unknown | 
+
+[12/31/2017 23:28:47]
+Flag update (33% remaining), ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 32% | Battery Left: 6403 seconds | Battery Full: Unknown | 
+
+[01/01/2018 00:00:47]
+It's midnight, ... ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 24% | Battery Left: 4927 seconds | Battery Full: Unknown | 
+
+[01/01/2018 00:37:47]
+Computer is shutting down. ACLineStatus: Offline | Battery Flag: Low, less than 33 percent | Battery Life: 7% | Battery Left: 1746 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/01/2018 12:18:29]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/01/2018 12:18:29]
+Flag update (12% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 12% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 12:40:29]
+Flag update (32% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 34% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 13:13:29]
+Flag update (66% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 13:31:29]
+Flag update (84% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 84% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 13:51:29]
+Flag update (84% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 84% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 14:09:29]
+Flag update (92% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 92% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 17:08:29]
+Discharging (92% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 92% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 17:54:29]
+Flag update (67% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: 6840 seconds | Battery Full: Unknown | 
+
+[01/01/2018 18:32:29]
+Charging (43% remaining, ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 43% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:32:29]
+Flag update (43% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 43% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:47:29]
+Discharging (55% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 56% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:47:31]
+Flag update (55% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 56% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:49:29]
+Charging (55% remaining, ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 55% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:49:29]
+Flag update (55% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 55% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:55:29]
+Discharging (59% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:55:31]
+Flag update (59% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 60% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:56:29]
+Charging (60% remaining, ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 60% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 18:56:30]
+Flag update (60% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 60% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 19:03:29]
+Discharging (66% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 19:03:30]
+Flag update (66% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 19:04:29]
+Charging (66% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 19:37:29]
+Flag update (92% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 92% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 20:32:29]
+Flag update (92% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 92% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 21:34:29]
+Discharging (99% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 99% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 21:34:32]
+Flag update (99% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 99% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 22:46:29]
+Charging (69% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 69% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 22:48:29]
+Discharging (68% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 68% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 22:51:29]
+Charging (68% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 22:51:29]
+Flag update (68% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:19:29]
+Flag update (89% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 90% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:20:29]
+Discharging (90% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 89% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:27:29]
+Charging (87% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 87% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:28:29]
+Discharging (87% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 86% | Battery Left: 12538 seconds | Battery Full: Unknown | 
+
+[01/01/2018 23:34:29]
+Charging (85% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 84% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:35:29]
+Discharging (84% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 84% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:36:29]
+Charging (84% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 85% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:37:29]
+Discharging (85% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 84% | Battery Left: 12125 seconds | Battery Full: Unknown | 
+
+[01/01/2018 23:38:29]
+Charging (84% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 84% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/01/2018 23:54:29]
+Flag update (84% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 84% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 00:00:29]
+It's midnight, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 89% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 00:02:29]
+Discharging (89% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 89% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 00:02:32]
+Flag update (89% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 89% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 00:03:29]
+Computer is shutting down. ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 89% | Battery Left: 19996 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/02/2018 10:26:39]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/02/2018 10:26:39]
+Discharging (87% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 87% | Battery Left: 11356 seconds | Battery Full: Unknown | 
+
+[01/02/2018 10:26:42]
+Flag update (87% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 87% | Battery Left: 11356 seconds | Battery Full: Unknown | 
+
+[01/02/2018 10:28:39]
+Charging (87% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 87% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 10:31:39]
+Flag update (86% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 86% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 11:13:39]
+Discharging (98% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 98% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 11:13:41]
+Flag update (98% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 98% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 11:14:39]
+Charging (98% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 98% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 11:14:40]
+Flag update (98% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 98% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 12:07:39]
+Discharging (99% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 99% | Battery Left: 23353 seconds | Battery Full: Unknown | 
+
+[01/02/2018 12:07:40]
+Flag update (99% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 99% | Battery Left: 23353 seconds | Battery Full: Unknown | 
+
+[01/02/2018 13:22:39]
+Charging (80% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 79% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 13:23:39]
+Discharging (79% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 79% | Battery Left: 19656 seconds | Battery Full: Unknown | 
+
+[01/02/2018 13:26:39]
+Charging (79% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 78% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 13:26:40]
+Flag update (79% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 78% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 13:28:39]
+Flag update (79% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 79% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 17:28:39]
+Flag update (79% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 79% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 19:35:39]
+Flag update (99% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 20:40:39]
+Discharging (100% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/02/2018 20:41:00]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[01/02/2018 20:45:03]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/02/2018 20:45:04]
+Discharging (98% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 98% | Battery Left: 8750 seconds | Battery Full: Unknown | 
+
+[01/02/2018 20:45:06]
+Flag update (98% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 98% | Battery Left: 8750 seconds | Battery Full: Unknown | 
+
+[01/02/2018 20:50:53]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[01/02/2018 21:14:48]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/02/2018 21:14:49]
+Discharging (85% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 85% | Battery Left: 11120 seconds | Battery Full: Unknown | 
+
+[01/02/2018 21:14:51]
+Flag update (85% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 85% | Battery Left: 11120 seconds | Battery Full: Unknown | 
+
+[01/02/2018 22:17:48]
+Flag update (67% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 66% | Battery Left: 24584 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/02/2018 23:15:45]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/02/2018 23:15:45]
+Discharging (61% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 6227 seconds | Battery Full: Unknown | 
+
+[01/02/2018 23:15:48]
+Flag update (61% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 61% | Battery Left: 6227 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/03/2018 21:18:49]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/03/2018 21:18:50]
+Discharging (59% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 59% | Battery Left: 6082 seconds | Battery Full: Unknown | 
+
+[01/03/2018 21:18:52]
+Flag update (59% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 59% | Battery Left: 6082 seconds | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/04/2018 12:05:45]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/04/2018 12:05:45]
+Flag update (57% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 57% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/04/2018 12:07:39]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/04/2018 12:07:41]
+Discharging (56% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 56% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:07:43]
+Flag update (56% remaining), ... ACLineStatus: Offline | Battery Flag: Unknown | Battery Life: 56% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:08:40]
+Charging (56% remaining, ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 56% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:10:40]
+Flag update (55% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 55% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:11:40]
+Flag update (55% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 54% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/04/2018 12:18:10]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/04/2018 12:18:11]
+Flag update (54% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 54% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:19:10]
+Flag update (54% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 54% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:20:10]
+Flag update (54% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 54% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:23:10]
+Flag update (53% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 53% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:24:10]
+Flag update (53% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 52% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:27:10]
+Flag update (52% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 51% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:28:10]
+Flag update (51% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 51% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:31:10]
+Flag update (51% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 51% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:32:10]
+Flag update (51% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 51% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:34:10]
+Flag update (50% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 50% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 12:54:10]
+Flag update (66% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 14:50:10]
+Flag update (99% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/04/2018 15:10:13]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/04/2018 15:10:14]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/04/2018 16:17:30]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/04/2018 16:17:30]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 19:22:46]
+Discharging (100% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: 20198 seconds | Battery Full: Unknown | 
+
+[01/04/2018 20:21:30]
+Charging (68% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 68% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 20:23:30]
+Flag update (68% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 20:24:30]
+Flag update (67% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/04/2018 20:29:40]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/04/2018 20:29:40]
+Flag update (65% remaining), ... ACLineStatus: Online | Battery Flag: Charging | Battery Life: 65% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/04/2018 20:30:14]
+Battery listener was forcefully exited!
+
+
+-----------------------------
+[01/05/2018 06:03:42]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/05/2018 06:03:42]
+Flag update (64% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 64% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/05/2018 06:12:48]
+Discharging (63% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 68% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/05/2018 06:12:49]
+Flag update (63% remaining), ... ACLineStatus: Offline | Battery Flag: High, more than 66 percent | Battery Life: 68% | Battery Left: Unknown | Battery Full: Unknown | 
+
+[01/05/2018 06:12:50]
+Charging (68% remaining, ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 68% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/05/2018 06:13:54]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/05/2018 06:13:58]
+Flag update (67% remaining), ... ACLineStatus: Online | Battery Flag: Unknown | Battery Life: 67% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/05/2018 12:06:55]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/05/2018 12:07:12]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/05/2018 15:16:00]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/05/2018 15:16:01]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+
+
+-----------------------------
+[01/05/2018 16:41:40]
+Bat Echo v1.1 has completely set up and is running.
+
+[01/05/2018 16:41:41]
+Flag update (100% remaining), ... ACLineStatus: Online | Battery Flag: High, more than 66 percent | Battery Life: 100% | Battery Left: Unknown | Battery Full: Unknown | 
+

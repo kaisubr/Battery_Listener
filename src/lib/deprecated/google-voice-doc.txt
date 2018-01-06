@@ -1,0 +1,5 @@
+https://web.archive.org/web/20130503230558/http://www.googlevoice.org/
+
+https://github.com/bharley/google-voice-java
+
+https://code.google.com/archive/p/google-voice-java/downloads
